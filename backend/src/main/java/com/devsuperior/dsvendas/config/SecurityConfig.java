@@ -1,4 +1,4 @@
-package om.devsuperior.dsvendas.config;
+package com.devsuperior.dsvendas.config;
 
 import java.util.Arrays;
 
